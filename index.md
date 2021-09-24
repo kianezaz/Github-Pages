@@ -1,7 +1,9 @@
 # Kian Ezaz
 
-- [About Me](#about-me)
-- [Random Stuff](#random-stuff)
+- [Kian Ezaz](#kian-ezaz)
+  - [About me](#about-me)
+  - [First Week Back at School](#first-week-back-at-school)
+  - [Today's Tasks](#todays-tasks)
 
 ## About me
 
@@ -28,7 +30,7 @@ Other things I'm interested in are:
 2. going to the beach
 3. playing the guitar
 
-## Random Stuff
+## First Week Back at School
 
 Today (9/24/21) marks the second day of the 2021-22 UCSD school year. My Algorithms professor started off the first lecture by showing how we can go beyond using the obvious solution to problems for optimization. For example, the common way to go about finding the nth term in the Fibonacci sequence is:
 ```
@@ -55,4 +57,9 @@ int fib2(n) {
 ```
 Additional methods and time complexity can be found [here](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 
-The README file for this repo can be found [here](README.md)
+One of my other classes is Software Engineering (the same class I'm doing this current lab for). This lab aims to familiarize us with Git and working with VS Code. Screenshots of the types of commands that were used for today's lab can be found [here](screenshots/../Screenshots/CSE110-Lab1-Part1a.png) and [here](Screenshots/CSE110-Lab1-Part1b.png)
+
+## Today's Tasks
+- [x] Commute to campus on time
+- [ ] Play pick-up soccer
+- [ ] Work on my side project
